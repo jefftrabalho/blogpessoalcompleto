@@ -15,7 +15,7 @@
 	<name>blogpesoal</name>
 	<description>conteudo de estudo exclusivo generation brasil</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>15</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
